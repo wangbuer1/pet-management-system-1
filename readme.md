@@ -87,7 +87,7 @@
 
 ## 6、获取方式
 
-关注公众号： **程序员王不二**，回复 “ ” ，即可获取完整版的项目代码。
+关注公众号： **程序员王不二**，回复 “**宠物1** ” ，即可获取完整版的项目代码。
 
 ![image-20220509000010316](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220509000012.png)
 
