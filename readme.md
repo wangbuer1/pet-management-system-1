@@ -83,7 +83,7 @@
 
 ## 5、视频演示
 
-[点击播放视频，视频位于文章最后](输入链接)
+[点击播放视频，视频位于文章最后](https://mp.weixin.qq.com/s/Xvcp9-RlExnqRH-BPtsMvQ)
 
 ## 6、获取方式
 
