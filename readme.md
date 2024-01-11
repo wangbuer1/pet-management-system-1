@@ -1,104 +1,91 @@
-# »ùÓÚSSHµÄ³èÎï¹ÜÀíÏµÍ³£¨³èÎïÉÌµê£©
+# åŸºäºŽSSHçš„å® ç‰©ç®¡ç†ç³»ç»Ÿ å® ç‰©å•†åº—1
 
-## 1¡¢ÏîÄ¿½éÉÜ
+## 1ã€é¡¹ç›®ä»‹ç»
 
-»ùÓÚSSHµÄ³èÎï¹ÜÀíÏµÍ³£¨³èÎïÉÌµê£©ÓµÓÐÁ½ÖÖ½ÇÉ«£¬·Ö±ðÎª¹ÜÀíÔ±ºÍÓÃ»§£¬¾ßÌå¹¦ÄÜÈçÏÂ£º
+å® ç‰©ç®¡ç†ç³»ç»Ÿï¼ˆå® ç‰©å•†åº—ï¼‰æ‹¥æœ‰ä¸¤ç§è§’è‰²ï¼Œåˆ†åˆ«ä¸ºç®¡ç†å‘˜å’Œç”¨æˆ·ï¼Œå…·ä½“åŠŸèƒ½å¦‚ä¸‹ï¼š
 
-ÓÃ»§£ºÊ×Ò³ä¯ÀÀ³èÎïÐÅÏ¢¡¢¹ºÂò³èÎï¡¢¸öÈË¶©µ¥¹ÜÀí¡¢ÁôÑÔ¡¢ÐÞ¸Ä¸öÈËÐÅÏ¢µÈ
+ç”¨æˆ·ï¼šé¦–é¡µæµè§ˆå® ç‰©ä¿¡æ¯ã€è´­ä¹°å® ç‰©ã€ä¸ªäººè®¢å•ç®¡ç†ã€ç•™è¨€ã€ä¿®æ”¹ä¸ªäººä¿¡æ¯ç­‰
 
-¹ÜÀíÔ±£º³èÎï¹ÜÀí¡¢³èÎïÀàÐÍ¹ÜÀí¡¢¶©µ¥¹ÜÀí¡¢¹«¸æ¹ÜÀí¡¢ÁôÑÔ¹ÜÀí¡¢ÓÃ»§¹ÜÀíµÈ
-
-
-## 2¡¢ÏîÄ¿¼¼Êõ
-
-ºó¶Ë¿ò¼Ü£ºSSH£¨Spring¡¢Struts¡¢Hibernate£©
-
-Ç°¶Ë¿ò¼Ü£ºEasyui¡¢jsp¡¢css¡¢JavaScript¡¢JQuery
-
-## 3¡¢¿ª·¢»·¾³
-
-- JAVA°æ±¾£ºJDK1.8£¬ÆäËü°æ±¾ÀíÂÛÉÏ¿ÉÒÔ
-- IDEÀàÐÍ£ºIDEA¡¢Eclipse¡¢Myeclipse¶¼¿ÉÒÔ¡£ÍÆ¼öIDEAÓëEclipse
-- tomcat°æ±¾£ºTomcat 7.x¡¢8.x¡¢9.x¡¢10.x°æ±¾¾ù¿É
-- Êý¾Ý¿â°æ±¾£ºMySql 5.x
-- ÊÇ·ñÎªmaven£º·ñ
-- Ó²¼þ»·¾³£ºWindows »òÕß Mac OS
+ç®¡ç†å‘˜ï¼šå® ç‰©ç®¡ç†ã€å® ç‰©ç±»åž‹ç®¡ç†ã€è®¢å•ç®¡ç†ã€å…¬å‘Šç®¡ç†ã€ç•™è¨€ç®¡ç†ã€ç”¨æˆ·ç®¡ç†ç­‰
 
 
-## 4¡¢¹¦ÄÜ½éÉÜ
+## 2ã€é¡¹ç›®æŠ€æœ¯
 
-### 4.1 µÇÂ¼Óë×¢²á
+åŽç«¯æ¡†æž¶ï¼šSSHï¼ˆSpringã€Strutsã€Hibernateï¼‰
 
-![ÓÃ»§-µÇÂ¼](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235207.jpg)
+å‰ç«¯æ¡†æž¶ï¼šEasyuiã€jspã€cssã€JavaScriptã€JQuery
 
-![ÓÃ»§×¢²á](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235208.jpg)
+## 3ã€å¼€å‘çŽ¯å¢ƒ
 
-ÓÃ»§¿ÉÒÔÍ¨¹ý´Ë½çÃæµÇÂ¼ÏµÍ³£¬ÒÔ¼°Í¨¹ý×¢²á½çÃæ½øÐÐ×¢²á¡£×¢²áÊ±£¬Ç°¶Ë»á×Ô¶¯½øÐÐÐÅÏ¢Ð£Ñé¡£
+- JAVAç‰ˆæœ¬ï¼šJDK1.8ï¼Œå…¶å®ƒç‰ˆæœ¬ç†è®ºä¸Šå¯ä»¥
+- IDEç±»åž‹ï¼šIDEAã€Eclipseã€Myeclipseéƒ½å¯ä»¥ã€‚æŽ¨èIDEAä¸ŽEclipse
+- tomcatç‰ˆæœ¬ï¼šTomcat 7.xã€8.xã€9.xã€10.xç‰ˆæœ¬å‡å¯
+- æ•°æ®åº“ç‰ˆæœ¬ï¼šMySql 5.x
+- æ˜¯å¦ä¸ºmavenï¼šå¦
+- ç¡¬ä»¶çŽ¯å¢ƒï¼šWindows æˆ–è€… Mac OS
 
-### 4.2 ÓÃ»§Ä£¿é
 
-![Ê×Ò³](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235250.jpg)
+## 4ã€åŠŸèƒ½ä»‹ç»
 
-![³èÎïÏêÇé](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235302.jpg)
+### 4.1 ç™»å½•ä¸Žæ³¨å†Œ
 
-![¹ºÎï³µ](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235307.jpg)
+![ç”¨æˆ·-ç™»å½•](https://www.codeshop.fun/Typora-Images/20220518235207.jpg)
 
-![ÓÃ»§-¸öÈË¶©µ¥¹ÜÀí](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235317.jpg)
+![ç”¨æˆ·æ³¨å†Œ](https://www.codeshop.fun/Typora-Images/20220518235208.jpg)
 
-![ÓÃ»§ÁôÑÔ](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235322.jpg)
+ç”¨æˆ·å¯ä»¥é€šè¿‡æ­¤ç•Œé¢ç™»å½•ç³»ç»Ÿï¼Œä»¥åŠé€šè¿‡æ³¨å†Œç•Œé¢è¿›è¡Œæ³¨å†Œã€‚æ³¨å†Œæ—¶ï¼Œå‰ç«¯ä¼šè‡ªåŠ¨è¿›è¡Œä¿¡æ¯æ ¡éªŒã€‚
 
-![ÓÃ»§ÐÞ¸Ä¸öÈËÐÅÏ¢](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235326.jpg)
+### 4.2 ç”¨æˆ·æ¨¡å—
 
-Ê×Ò³¹¦ÄÜ£ºÓÃ»§¿ÉÒÔ¸ù¾ÝÀàÐÍÉ¸Ñ¡³èÎï£¬²é¿´ÖØÐÂÏêÇé£¬½«³èÎï¼ÓÈë¹ºÎï³µ£¬Ö±½Ó¹ºÂò³èÎïµÈ
+![é¦–é¡µ](https://www.codeshop.fun/Typora-Images/20220518235250.jpg)
 
-¸öÈË¶©µ¥¹ÜÀí£ºÓÃ»§¿ÉÒÔ¸ù¾Ý¶©µ¥¿´²é¿´×Ô¼ºµÄ¶©µ¥ÐÅÏ¢
+![å® ç‰©è¯¦æƒ…](https://www.codeshop.fun/Typora-Images/20220518235302.jpg)
 
-ÆäËü¹¦ÄÜ£ºÓÃ»§¿ÉÒÔÏµÍ³ÁôÑÔ¡¢ÐÞ¸Ä¸öÈËÐÅÏ¢
+![è´­ç‰©è½¦](https://www.codeshop.fun/Typora-Images/20220518235307.jpg)
 
-### 4.3 ¹ÜÀíÔ±Ä£¿é
+![ç”¨æˆ·-ä¸ªäººè®¢å•ç®¡ç†](https://www.codeshop.fun/Typora-Images/20220518235317.jpg)
 
-![¹ÜÀíÔ±-³èÎï¹ÜÀí](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235745.jpg)
+![ç”¨æˆ·ç•™è¨€](https://www.codeshop.fun/Typora-Images/20220518235322.jpg)
 
-![¹ÜÀíÔ±-³èÎïÀàÐÍ¹ÜÀí](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235748.jpg)
+![ç”¨æˆ·ä¿®æ”¹ä¸ªäººä¿¡æ¯](https://www.codeshop.fun/Typora-Images/20220518235326.jpg)
 
-![¹ÜÀíÔ±-¶©µ¥¹ÜÀí](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235749.jpg)
+é¦–é¡µåŠŸèƒ½ï¼šç”¨æˆ·å¯ä»¥æ ¹æ®ç±»åž‹ç­›é€‰å® ç‰©ï¼ŒæŸ¥çœ‹é‡æ–°è¯¦æƒ…ï¼Œå°†å® ç‰©åŠ å…¥è´­ç‰©è½¦ï¼Œç›´æŽ¥è´­ä¹°å® ç‰©ç­‰
 
-![¹ÜÀíÔ±-¹«¸æ¹ÜÀí](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235751.jpg)
+ä¸ªäººè®¢å•ç®¡ç†ï¼šç”¨æˆ·å¯ä»¥æ ¹æ®è®¢å•çœ‹æŸ¥çœ‹è‡ªå·±çš„è®¢å•ä¿¡æ¯
 
-![¹ÜÀíÔ±-ÁôÑÔ¹ÜÀí](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235754.jpg)
+å…¶å®ƒåŠŸèƒ½ï¼šç”¨æˆ·å¯ä»¥ç³»ç»Ÿç•™è¨€ã€ä¿®æ”¹ä¸ªäººä¿¡æ¯
 
-![¹ÜÀíÔ±-ÓÃ»§¹ÜÀí](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220518235756.jpg)
+### 4.3 ç®¡ç†å‘˜æ¨¡å—
 
-³èÎï¹ÜÀí£º¹ÜÀíÔ±¿ÉÒÔÍ¨¹ý³èÎïÃû³ÆÄ£ºý²éÑ¯³èÎï£¬»¹¿ÉÒÔÔö¼Ó¡¢É¾³ý¡¢ÐÞ¸Ä³èÎïÐÅÏ¢£¬ÒÔ¼°ÉèÖÃÎªÈÈÂô¡¢ÌØ¼ÛµÈ
+![ç®¡ç†å‘˜-å® ç‰©ç®¡ç†](https://www.codeshop.fun/Typora-Images/20220518235745.jpg)
 
-³èÎïÀàÐÍ¹ÜÀí£º¹ÜÀíÔ±¿ÉÒÔÍ¨¹ýÃû³ÆÉ¸Ñ¡ÀàÐÍ£¬²¢ÄÜÔö¼Ó¡¢É¾³ý¡¢ÐÞ¸ÄÀàÐÍÐÅÏ¢
+![ç®¡ç†å‘˜-å® ç‰©ç±»åž‹ç®¡ç†](https://www.codeshop.fun/Typora-Images/20220518235748.jpg)
 
-¶©µ¥¹ÜÀí£º¹ÜÀíÔ±¿ÉÒÔÍ¨¹ý¶©µ¥ºÅºÍ¶©µ¥ÈËËÑË÷¶©µ¥ÐÅÏ¢£¬»¹¿ÉÒÔ²é¿´¶©µ¥ÏêÇé¡¢ÉóºË¶©µ¥¡¢ÐÞ¸Ä·¢»õ×´Ì¬
+![ç®¡ç†å‘˜-è®¢å•ç®¡ç†](https://www.codeshop.fun/Typora-Images/20220518235749.jpg)
 
-¹«¸æ¹ÜÀí£º¹ÜÀíÔ±¿ÉÒÔÍ¨¹ýÃû³ÆÉ¸Ñ¡¹«¸æ£¬²¢ÄÜÔö¼Ó¡¢É¾³ý¡¢ÐÞ¸Ä¹«¸æÐÅÏ¢
+![ç®¡ç†å‘˜-å…¬å‘Šç®¡ç†](https://www.codeshop.fun/Typora-Images/20220518235751.jpg)
 
-ÁôÑÔ¹ÜÀí£º¹ÜÀíÔ±¿ÉÒÔÍ¨¹ýÃû³ÆÉ¸Ñ¡ÁôÑÔ£¬²¢ÄÜÔö¼Ó¡¢É¾³ý¡¢ÐÞ¸ÄÁôÑÔÐÅÏ¢£¬»¹¿ÉÒÔ»Ø¸´ÓÃ»§µÄÐÅÏ¢
+![ç®¡ç†å‘˜-ç•™è¨€ç®¡ç†](https://www.codeshop.fun/Typora-Images/20220518235754.jpg)
 
-ÓÃ»§¹ÜÀí£º¹ÜÀíÔ±¿ÉÒÔÍ¨¹ýÓÃ»§ÃûÉ¸Ñ¡ÓÃ»§£¬²¢ÄÜÔö¼Ó¡¢É¾³ý¡¢ÐÞ¸ÄÓÃ»§ÐÅÏ¢
+![ç®¡ç†å‘˜-ç”¨æˆ·ç®¡ç†](https://www.codeshop.fun/Typora-Images/20220518235756.jpg)
 
-## 5¡¢ÊÓÆµÑÝÊ¾
+å® ç‰©ç®¡ç†ï¼šç®¡ç†å‘˜å¯ä»¥é€šè¿‡å® ç‰©åç§°æ¨¡ç³ŠæŸ¥è¯¢å® ç‰©ï¼Œè¿˜å¯ä»¥å¢žåŠ ã€åˆ é™¤ã€ä¿®æ”¹å® ç‰©ä¿¡æ¯ï¼Œä»¥åŠè®¾ç½®ä¸ºçƒ­å–ã€ç‰¹ä»·ç­‰
 
-[µã»÷²¥·ÅÊÓÆµ£¬ÊÓÆµÎ»ÓÚÎÄÕÂ×îºó](ÊäÈëÁ´½Ó)
+å® ç‰©ç±»åž‹ç®¡ç†ï¼šç®¡ç†å‘˜å¯ä»¥é€šè¿‡åç§°ç­›é€‰ç±»åž‹ï¼Œå¹¶èƒ½å¢žåŠ ã€åˆ é™¤ã€ä¿®æ”¹ç±»åž‹ä¿¡æ¯
 
-## 6¡¢»ñÈ¡·½Ê½
+è®¢å•ç®¡ç†ï¼šç®¡ç†å‘˜å¯ä»¥é€šè¿‡è®¢å•å·å’Œè®¢å•äººæœç´¢è®¢å•ä¿¡æ¯ï¼Œè¿˜å¯ä»¥æŸ¥çœ‹è®¢å•è¯¦æƒ…ã€å®¡æ ¸è®¢å•ã€ä¿®æ”¹å‘è´§çŠ¶æ€
 
-¹Ø×¢¹«ÖÚºÅ£º **³ÌÐòÔ±Íõ²»¶þ**£¬»Ø¸´ ¡° ¡± £¬¼´¿É»ñÈ¡ÍêÕû°æµÄÏîÄ¿´úÂë¡£
+å…¬å‘Šç®¡ç†ï¼šç®¡ç†å‘˜å¯ä»¥é€šè¿‡åç§°ç­›é€‰å…¬å‘Šï¼Œå¹¶èƒ½å¢žåŠ ã€åˆ é™¤ã€ä¿®æ”¹å…¬å‘Šä¿¡æ¯
 
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220509000012.png)
+ç•™è¨€ç®¡ç†ï¼šç®¡ç†å‘˜å¯ä»¥é€šè¿‡åç§°ç­›é€‰ç•™è¨€ï¼Œå¹¶èƒ½å¢žåŠ ã€åˆ é™¤ã€ä¿®æ”¹ç•™è¨€ä¿¡æ¯ï¼Œè¿˜å¯ä»¥å›žå¤ç”¨æˆ·çš„ä¿¡æ¯
 
-## 7¡¢ÆäËüÏîÄ¿
+ç”¨æˆ·ç®¡ç†ï¼šç®¡ç†å‘˜å¯ä»¥é€šè¿‡ç”¨æˆ·åç­›é€‰ç”¨æˆ·ï¼Œå¹¶èƒ½å¢žåŠ ã€åˆ é™¤ã€ä¿®æ”¹ç”¨æˆ·ä¿¡æ¯
 
-* [µã»÷·ÃÎÊ¸÷ÖÖÏîÄ¿Ô´Âë](https://mp.weixin.qq.com/s?__biz=MzkwMjM1MjM0Ng==&mid=2247483834&idx=1&sn=40517cecf36ce5d7663ed774a033fa2c&chksm=c0a79d0ff7d0141943c5d8da40b489e8ecdda5c345568776f475576506c76a954bd8238dc4f5#rd)
-* [SSM¿ò¼ÜÏîÄ¿](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2387377591113859072#wechat_redirect)
 
-* [springbootÏîÄ¿](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2387377898791223296#wechat_redirect)
+## 6ã€èŽ·å–æ–¹å¼
 
-* [¼òµ¥ÎÞ¿ò¼ÜÏîÄ¿](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2387378317047218183#wechat_redirect)
+å…³æ³¨å…¬ä¼—å·ï¼š **ç¨‹åºå‘˜çŽ‹ä¸äºŒ**ï¼Œå›žå¤ **å® ç‰©** ï¼Œå³å¯èŽ·å–å®Œæ•´ç‰ˆçš„é¡¹ç›®ä»£ç ã€‚
 
-  
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
+
 
